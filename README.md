@@ -1,0 +1,1 @@
+# talkdesginpattern-java
